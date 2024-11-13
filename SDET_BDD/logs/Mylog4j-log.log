@@ -11,3 +11,6 @@
 [INFO ]2024-11-1014:47:54.845[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method opening_browser_and_launchin_tutorialninja_com_pom
 [INFO ]2024-11-1014:47:57.962[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method navigate_to_select_euro_currency_pom
 [INFO ]2024-11-1014:47:58.063[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method click_on_euro_currency_pom
+[INFO ]2024-11-1309:36:08.580[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method opening_browser_and_launchin_tutorialninja_com_pom
+[INFO ]2024-11-1309:36:11.213[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method navigate_to_select_euro_currency_pom
+[INFO ]2024-11-1309:36:11.358[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method click_on_euro_currency_pom
