@@ -1,0 +1,6 @@
+dsutilities\LoggerLoad.class
+stepDefinitions\Tutorial_Ninja_POM.class
+stepDefinitions\Tutorial_Ninja_launch.class
+stepDefinitions\LoggerTest.class
+stepDefinitions\Orange_SD.class
+runner\TestRunner.class
